@@ -38,8 +38,13 @@
 <br>
 <div align="center">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=#2C2255&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-023070?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
+<img src="https://img.shields.io/badge/iTerm2-000000?style=flat&logo=iTerm2&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Atom-66595C?style=flat&logo=Atom&logoColor=white"/>
+
+
 </div>
 <br>
 <div align="center">
