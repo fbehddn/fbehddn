@@ -6,7 +6,7 @@
 <br>
 <div align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffbehddn&count_bg=%23191B17&title_bg=%23555555&icon=iconify.svg&icon_color=%23E7E7E7&title=&edge_flat=false"/></a>
-<a href="https://velog.io/@dwdb">
+<a href="https://velog.io/@dw_db">
     <img 
         src="http://img.shields.io/badge/-Velog-00EF91?style=flat&logo=Vector Logo Zone&link=https://velog.io/@dwdb"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
