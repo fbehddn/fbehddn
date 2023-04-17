@@ -48,7 +48,10 @@
 
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbehddn)](https://github.com/fbehddn/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fbehddn)](https://github.com/fbehddn/github-readme-stats)
+
+<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=2000ydw)](https://solved.ac/2000ydw/)
+
 
 </div>
 <br>
