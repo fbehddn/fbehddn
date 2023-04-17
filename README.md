@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=fbehddn&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Dongwoo's%20GitHub&fontSize=70&animation=fadeIn)
 
 <div align="center">
 🧑🏻‍💻 Me 🧑🏻‍💻 
@@ -43,10 +43,14 @@
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-023070?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
     </p>
+   
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=fbehddn&theme=nord&show_icons=true)](https://github.com/fbehddn)
+
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=2000ydw)](https://solved.ac/2000ydw)
 </div>
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&section=footer)
 
    
 
