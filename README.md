@@ -43,12 +43,18 @@
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-023070?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
     </p>
-   
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=fbehddn&theme=nord&show_icons=true)](https://github.com/fbehddn)
+  
+</div>
 
+<div align="center">
+    
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbehddn&layout=compact&theme=github_dark&hide_border=true" /></a> 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=2000ydw)](https://solved.ac/2000ydw)
 </div>
+
+
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&section=footer)
 
