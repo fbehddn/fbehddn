@@ -20,12 +20,16 @@
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-0064CD?style=flat-square&logo=JAVA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=SpringSecurity&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-FF00FF?style=flat&logo=&logoColor=white"/>
-<img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
+    
 </div>
 
 <br>
@@ -36,10 +40,10 @@
 <br>
 <div align="center">
     <p>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-023070?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
-    </p>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/DBeaver-382923?style=flat&logo=DBeaver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse&logoColor=white"/>
   
 </div>
 
