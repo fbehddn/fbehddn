@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Dongwoo's%20GitHub&fontSize=70&animation=fadeIn)
-
 <div align="center">
 🧑🏻‍💻 Me 🧑🏻‍💻 
 </div>
