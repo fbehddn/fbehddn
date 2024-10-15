@@ -9,9 +9,12 @@
 <img src="https://img.shields.io/badge/Java-0064CD?style=flat-square&logo=JAVA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=SpringSecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=springboot&logoColor=white"/>
+  <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA-FF00FF?style=flat&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=SpringSecurity&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=&logoColor=white"/>
 </div>
 
 <br>
