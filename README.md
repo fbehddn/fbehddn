@@ -1,19 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Dongwoo's%20GitHub&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=fbehddn&fontSize=70&animation=fadeIn)
 <div align="center">
-🧑🏻‍💻 Me 🧑🏻‍💻 
-</div>
-<br>
-<div align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffbehddn%2Fhit-counter&count_bg=%233D91C8&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=github&edge_flat=false"/></a>
-<a href="https://velog.io/@dw_db">
-    <img 
-        src="http://img.shields.io/badge/-Velog-00EF91?style=flat&logo=Vector Logo Zone&link=https://velog.io/@dwdb"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-</div>
-<br>
-<div align="center">
-:book:Studying:book:
+:books:Tech Stack:books:
 </div>
 
 <br>
@@ -25,7 +12,6 @@
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=SpringSecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-FF00FF?style=flat&logo=&logoColor=white"/>
-    
 </div>
 
 <br>
@@ -35,10 +21,14 @@
 </div>
 <br>
 <div align="center">
-    <p>
+<p>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-023070?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
-    </p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Postman&logoColor=white"/>
+
+</p>
   
 </div>
 
@@ -52,13 +42,26 @@
     </p>
 
 <div align="center">
-    
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbehddn&layout=compact&theme=github_dark&hide_border=true" /></a> 
+
+<div align="center">
+📚 GPA & Awards 📚
+</div>
+<br>
+<div align="center">
+<p> 
+<img src="https://img.shields.io/badge/GPA-3.91/4.5-2D8CFF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Major GPA-4.02/4.5-FF6347?style=for-the-badge">
+</p>
+</div>
+<ul>
+    🥇경기대학교 2023 기초캡스톤디자인 산학협력 프로젝트 경진대회 금상 - 2023년🥇
+    <br>
+    🥈경기대학교 2024 캡스톤디자인 산학협력 프로젝트 경진대회 은상 - 2024년🥈
+</ul>
+
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=2000ydw)](https://solved.ac/2000ydw)
 </div>
-
-
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&section=footer)
