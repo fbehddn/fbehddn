@@ -13,7 +13,6 @@
   <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=SpringSecurity&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=&logoColor=white"/>
 </div>
 
@@ -24,27 +23,23 @@
 </div>
 <br>
 <div align="center">
-<p>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-023070?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Postman&logoColor=white"/>
-
-</p>
-  
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 </div>
+
+<br>
 
 <div align="center">
 🥸 Certificate 🥸
 </div>
 <br>
 <div align="center">
-    <p>
-    <img src="https://img.shields.io/badge/CSTS(FL)-3776AB?style=for-the-badge"> <img src="https://img.shields.io/badge/SQLD-FD5F07?style=for-the-badge">
-    </p>
-
-<div align="center">
+<img src="https://img.shields.io/badge/CSTS(FL)-3776AB?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/SQLD-FD5F07?style=for-the-badge">
+</div>
 
 <div align="center">
 📚 GPA & Awards 📚
@@ -56,14 +51,19 @@
 <img src="https://img.shields.io/badge/Major GPA-4.02/4.5-FF6347?style=for-the-badge">
 </p>
 </div>
+
+<div align="center">
 <ul>
     🥇경기대학교 2023 기초캡스톤디자인 산학협력 프로젝트 경진대회 금상 - 2023년🥇
     <br>
     🥈경기대학교 2024 캡스톤디자인 산학협력 프로젝트 경진대회 은상 - 2024년🥈
 </ul>
+</div>
 
-
+<div align="center">
+  
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=2000ydw)](https://solved.ac/2000ydw)
+
 </div>
 
 
