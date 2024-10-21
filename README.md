@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/CSTS(FL)-3776AB?style=for-the-badge"> 
 <img src="https://img.shields.io/badge/SQLD-FD5F07?style=for-the-badge">
 </div>
-
+<br>
 <div align="center">
 📚 GPA & Awards 📚
 </div>
