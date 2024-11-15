@@ -1,4 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=fbehddn&fontSize=70&animation=fadeIn)
+<a href="https://github.com/devxb/gitanimals">
+</a>
+
+<div align="center">
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/fbehddn"
+  width="600"
+  height="300"
+/>
+</a>
+</div>
 <div align="center">
 :books:Tech Stack:books:
 </div>
