@@ -19,13 +19,10 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/Java-0064CD?style=flat-square&logo=JAVA&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=springboot&logoColor=white"/>
-  <br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=SpringSecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 </div>
 
 <br>
@@ -68,13 +65,6 @@
 </p>
 </div>
 
-<div align="center">
-<ul>
-    🥇경기대학교 2023 기초캡스톤디자인 산학협력 프로젝트 경진대회 금상 - 2023년🥇
-    <br>
-    🥈경기대학교 2024 캡스톤디자인 산학협력 프로젝트 경진대회 은상 - 2024년🥈
-</ul>
-</div>
 
 <div align="center">
   
