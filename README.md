@@ -52,6 +52,7 @@
 <img src="https://img.shields.io/badge/TOPCIT(LV3)-FF0000?style=for-the-badge"> 
 
 
+<!--
 </div>
 <br>
 <div align="center">
@@ -64,7 +65,7 @@
 <img src="https://img.shields.io/badge/Major GPA-4.02/4.5-FF6347?style=for-the-badge">
 </p>
 </div>
-
+<!-->
 
 <div align="center">
   
