@@ -32,11 +32,10 @@
 </div>
 <br>
 <div align="center">
-<img src="https://img.shields.io/badge/IntelliJ IDEA-023070?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=Amazon AWS&logoColor=white"/>
 </div>
 
 <br>
