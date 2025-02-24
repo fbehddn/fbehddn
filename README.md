@@ -1,14 +1,11 @@
 # Hello, I'm Dongwoo You 😀
 
 <div>
-  
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffbehddn&count_bg=%23575B54&title_bg=%23020202&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<a href="mailto:06110611tom@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
-</a>
-<a href="https://velog.io/@06110611tom" target="_blank">
-<img src="https://img.shields.io/badge/Velog-20C997.svg?style=flat-square&logo=Velog&logoColor=white"/>
-</a>
+<a href="mailto:06110611tom@gmail.com" target="_blank" style="display: inline-block;">
+<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=round&logo=Gmail&logoColor=white"/>
+</a> 
 </div>
 
 ## 🚀 Tech Stack & Tools
@@ -37,3 +34,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=2000ydw)](https://solved.ac/2000ydw) 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fbehddn&show_icons=true&theme=transparent)
 </div>
+
+## 🧑🏻‍💻 More About Me
+
+<a href="https://velog.io/@dw_db/posts" target="_blank" style="display: inline-block;">
+<img src="https://img.shields.io/badge/Velog-20C997.svg?style=round&logo=Velog&logoColor=white"/>
+</a>
