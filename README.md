@@ -29,9 +29,9 @@
 <img src="https://img.shields.io/badge/Major GPA-4.02/4.5-FF6347?style=for-the-badge">
 <p>
 <br>
-대학교내 캡스톤디자인경진대회 금상🥇
+경기대학교 캡스톤디자인경진대회 금상🥇
 <br>
-대학교내 기초캡스톤디자인경진대회 은상🥈
+경기대학교 기초캡스톤디자인경진대회 은상🥈
 </p>
 </div>
 
