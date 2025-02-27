@@ -43,6 +43,3 @@
 
 ## 🧑🏻‍💻 More About Me
 
-<a href="https://velog.io/@dw_db/posts" target="_blank" style="display: inline-block;">
-<img src="https://img.shields.io/badge/Velog-20C997.svg?style=round&logo=Velog&logoColor=white"/>
-</a>
