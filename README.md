@@ -8,12 +8,8 @@
 </a> 
 </div>
 
-## 🚀 Tech Stack & Tools
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=idea,docker,postman,aws,vscode)](https://skillicons.dev)
-
-## 👫 Other Tools
-[![My Skills](https://skillicons.dev/icons?i=git,notion,discord)](https://skillicons.dev)
+## 🚀 Tech Stack 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,aws,docker)](https://skillicons.dev)  
 
 ## 📚 Certifications
 <div>
@@ -21,18 +17,6 @@
 <img src="https://img.shields.io/badge/SQLD-FD5F07?style=for-the-badge">
 <img src="https://img.shields.io/badge/OPIc(IH)-4CAF50?style=for-the-badge"> 
 <img src="https://img.shields.io/badge/TOPCIT(LV3)-FF0000?style=for-the-badge"> 
-</div>
-
-## 🏆 GPA & Awards
-<div>
-<img src="https://img.shields.io/badge/GPA-3.89/4.5-2D8CFF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Major GPA-4.02/4.5-FF6347?style=for-the-badge">
-<p>
-<br>
-경기대학교 캡스톤디자인경진대회 금상🥇
-<br>
-경기대학교 기초캡스톤디자인경진대회 은상🥈
-</p>
 </div>
 
 <div>
