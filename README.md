@@ -2,12 +2,6 @@
 
 <div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffbehddn&count_bg=%23575B54&title_bg=%23020202&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<a href="mailto:06110611tom@gmail.com" target="_blank" style="display: inline-block;">
-<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=round&logo=Gmail&logoColor=white"/>
-</a> 
-</div>
-
 ## 🚀 Tech Stack 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,aws,docker)](https://skillicons.dev)  
 
